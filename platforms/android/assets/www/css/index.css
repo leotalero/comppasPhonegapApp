@@ -1,0 +1,38 @@
+@font-face {
+  font-family: 'MyFont';
+  src: url('myfont.woff') format('woff'), /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+       url('myfont.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}
+
+body {background-color:#DDD; margin:0; font-family: 'MyWebFont', Fallback, sans-serif;}
+
+.whiteText{
+    color:#3D3D3D;
+    text-align:center;
+}
+
+.stretchedScreen{
+    background:#000;
+    position:relative;
+}
+
+#outerRing
+{
+    position: absolute;
+    z-index: 1;
+}
+#innerRing
+{
+    position: absolute;
+    z-index: 0;
+}
+
+#centerText{
+    color:#FFF;
+    text-align:center;
+    position: absolute;
+    font-size:24pt;
+    height:48px;
+    line-height:48px;
+    z-index: 2;
+}

@@ -1,0 +1,44 @@
+{
+  "ProjectName": "SimpleCompass",
+  "ProjectGuid": "b0827a10-e5d7-422d-bfdc-2087d673239a",
+  "projectVersion": 1,
+  "AppIdentifier": "com.accoladesys.mobile.compass",
+  "DisplayName": "Simple Compass",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.1.1",
+  "AndroidVersionCode": "4",
+  "iOSDeviceFamily": [
+    "1"
+  ],
+  "iOSBackgroundMode": [
+    "location"
+  ],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "BlackOpaque",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{a5b7609c-b15c-4a06-b83f-d9f3041140f3}",
+  "WP8ProductID": "{20e06ab3-4b95-45ef-93b1-fd551d71d795}",
+  "WPSdk": "8.0",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ],
+  "CorePlugins": [
+    "org.apache.cordova.device",
+    "org.apache.cordova.device-motion",
+    "org.apache.cordova.device-orientation",
+    "org.apache.cordova.geolocation"
+  ]
+}

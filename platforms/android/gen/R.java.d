@@ -1,0 +1,23 @@
+C:\Users\gtalero\PhonegapCompass\AppCompass\platforms\android\gen\com\phonegap\hello_world\R.java \
+ : C:\Users\gtalero\PhonegapCompass\AppCompass\platforms\android\res\drawable\icon.png \
+C:\Users\gtalero\PhonegapCompass\AppCompass\platforms\android\res\drawable-hdpi\icon.png \
+C:\Users\gtalero\PhonegapCompass\AppCompass\platforms\android\res\drawable-hdpi\ic_launcher.png \
+C:\Users\gtalero\PhonegapCompass\AppCompass\platforms\android\res\drawable-ldpi\icon.png \
+C:\Users\gtalero\PhonegapCompass\AppCompass\platforms\android\res\drawable-ldpi\ic_launcher.png \
+C:\Users\gtalero\PhonegapCompass\AppCompass\platforms\android\res\drawable-mdpi\icon.png \
+C:\Users\gtalero\PhonegapCompass\AppCompass\platforms\android\res\drawable-mdpi\ic_launcher.png \
+C:\Users\gtalero\PhonegapCompass\AppCompass\platforms\android\res\drawable-xhdpi\icon.png \
+C:\Users\gtalero\PhonegapCompass\AppCompass\platforms\android\res\drawable-xhdpi\ic_launcher.png \
+C:\Users\gtalero\PhonegapCompass\AppCompass\platforms\android\res\layout\main.xml \
+C:\Users\gtalero\PhonegapCompass\AppCompass\platforms\android\res\values\strings.xml \
+C:\Users\gtalero\PhonegapCompass\AppCompass\platforms\android\res\xml\config.xml \
+C:\Users\gtalero\PhonegapCompass\AppCompass\platforms\android\bin\res\drawable\icon.png \
+C:\Users\gtalero\PhonegapCompass\AppCompass\platforms\android\bin\res\drawable-hdpi\icon.png \
+C:\Users\gtalero\PhonegapCompass\AppCompass\platforms\android\bin\res\drawable-hdpi\ic_launcher.png \
+C:\Users\gtalero\PhonegapCompass\AppCompass\platforms\android\bin\res\drawable-ldpi\icon.png \
+C:\Users\gtalero\PhonegapCompass\AppCompass\platforms\android\bin\res\drawable-ldpi\ic_launcher.png \
+C:\Users\gtalero\PhonegapCompass\AppCompass\platforms\android\bin\res\drawable-mdpi\icon.png \
+C:\Users\gtalero\PhonegapCompass\AppCompass\platforms\android\bin\res\drawable-mdpi\ic_launcher.png \
+C:\Users\gtalero\PhonegapCompass\AppCompass\platforms\android\bin\res\drawable-xhdpi\icon.png \
+C:\Users\gtalero\PhonegapCompass\AppCompass\platforms\android\bin\res\drawable-xhdpi\ic_launcher.png \
+C:\Users\gtalero\PhonegapCompass\AppCompass\platforms\android\bin\AndroidManifest.xml \
